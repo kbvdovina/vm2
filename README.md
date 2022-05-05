@@ -2,6 +2,8 @@
 
 vm2 is a sandbox that can run untrusted code with whitelisted Node's built-in modules. Securely!
 
+This experimental fork is to add some Node modules.
+
 **Features**
 
 * Runs untrusted code securely in a single process with your code side by side
